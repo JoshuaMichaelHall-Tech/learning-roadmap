@@ -92,3 +92,7 @@ Each learning phase includes projects that demonstrate mastery:
 
 This repository includes weekly and monthly progress updates in the `/progress` directory.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
