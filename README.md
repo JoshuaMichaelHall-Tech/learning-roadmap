@@ -5,35 +5,67 @@ This repository documents my structured learning journey in software engineering
 
 ## Career Vision
 
-### Current Phase (2025-2026): Launch School
-- Mastering Ruby backend development
-- Building Python skills for data analysis
-- Developing JavaScript frontend capabilities
-- Establishing a terminal-centric, efficient workflow
+### Current Phase (March 31 - June 29, 2025): Python Backend
+- Mastering Python backend development
+- Completing Launch School's Python track through 189
+- Building a social media finance project
+- Completing Algebra 2 coursework
 - Cultivating a mastery-based learning mindset
 
-### Initial Career Phase (2026-2028)
-- Secure software engineering role ($120-150K)
-- Preparation for Georgia Tech OMSCS program
-- Continue independent learning in ML/data science
-- Begin building investment portfolio
-- Develop professional network in ML/finance domains
+### Phase 2 (June 30 - November 2, 2025): JavaScript Frontend
+- Mastering JavaScript frontend development
+- Completing Launch School's JavaScript track
+- Advanced mathematics coursework
+- Building interactive web applications
+- Expanding my portfolio with frontend projects
 
-### Advanced Career Phase (2028-2030)
-- Complete ML specialization through OMSCS
-- Transition to ML finance roles ($350K+)
-- Expand investments into real estate
+### Phase 3 (November 3 - January 4, 2026): Capstone Prep
+- Preparing for Launch School's Capstone program
+- Networking and building professional connections
+- Enhancing social media presence
+- Solidifying technical foundations
+- Applying for the Capstone program
+
+### Phase 4 (January 5 - June 28, 2026): Capstone
+- Participating in Launch School's Capstone program
+- Working on real-world projects with a team
+- Developing specialized technical expertise
+- Building career-relevant projects
+- Preparing for technical interviews
+
+### Phase 5 (June 29, 2026 onward): Career Development
+- Transitioning to ML finance roles ($350K+)
+- Expanding investments into real estate
 - Begin exploring business ownership opportunities
-- Establish personal brand in ML finance niche
+- Establishing personal brand in ML finance niche
+
+## Daily Structure
+
+### Phase 1 Daily Schedule
+- **5:00-5:30** - Devotions
+- **5:30-6:00** - ANKI/Biking/Stretching
+- **6:00-9:00** - Study Session 1 (60 minutes on, 5 minutes off)
+- **10:00-1:00** - Study Session 2 (55 minutes on, 5 minutes off)
+- **2:00-5:00** - Study Session 3 (50 minutes on, 10 minutes off)
+- **5:00-6:30** - Math Lessons (odd days)
+- **Evening** - Daily Kata/Equivalent (Rotating Languages)
+- **9:00** - Bedtime
+
+### Weekly Commitments
+- Complete one course module
+- Create mind maps for learned concepts
+- Update 6/7 Challenge progress
+- Review and adjust learning plan
 
 ## Technical Learning Path
 
 ### Programming Languages
-- **Ruby**: Backend development, web applications, testing
-- **Python**: Data analysis, ML foundations, automation
+- **Python**: Backend development, data analysis, automation
 - **JavaScript**: Frontend development, interactive applications
-- **TypeScript**: Type-safe application development
+- **Ruby**: Backend development, web applications
 - **SQL**: Database design and optimization
+- **HTML/CSS**: Frontend structure and styling
+- **Bash**: Shell scripting and automation
 
 ### Core Computer Science
 - Data structures and algorithms
@@ -103,12 +135,23 @@ This repository documents my structured learning journey in software engineering
 - Course materials organization
 
 ## Related Repositories
-- [launch-school-coursework](https://github.com/joshuamichaelhall/launch-school-coursework): Main repository for Launch School curriculum work
-- [ruby-fundamentals](https://github.com/joshuamichaelhall/ruby-fundamentals): Ruby programming concepts and exercises
+- [6-7-coding-challenge](https://github.com/joshuamichaelhall-tech/6-7-coding-challenge): Main repository for 6/7 Coding Challenge
 - [python-fundamentals](https://github.com/joshuamichaelhall/python-fundamentals): Python programming concepts and exercises
 - [js-fundamentals](https://github.com/joshuamichaelhall/js-fundamentals): JavaScript programming concepts and exercises
-- [python-data-analysis](https://github.com/joshuamichaelhall/python-data-analysis): Data analysis projects using Python
-- [software-engineering-reference](https://github.com/joshuamichaelhall/software-engineering-reference): Comprehensive reference materials
+- [social-finance-project](https://github.com/joshuamichaelhall/social-finance-project): Python social media finance project
 
 ## License
 This repository is available under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+
+This project was developed with assistance from Anthropic's Claude AI assistant, which helped with:
+- Documentation writing and organization
+- Code structure suggestions
+- Troubleshooting and debugging assistance
+
+Claude was used as a development aid while all final implementation decisions and code review were performed by Joshua Michael Hall.
+
+## Disclaimer
+
+This is a personal development and learning project. All information is provided without liability. Please report any issues or suggestions through GitHub issues.
